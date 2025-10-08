@@ -2,7 +2,7 @@
 import { connect } from 'cloudflare:sockets';
 
 let myID = atob('NDgwNjAyYjMtNTgxZS00MjAxLTgxYzEtYTdmMGViMzZhZWNj');//'';
-let 奸商IP = atob('dHA1MDAwMC5rci5wcm94eWlwLmZnZncuZXUub3JnOjUwMDAw');//'';
+let 奸商IP = atob('UHJveHlJUC5NdWx0YWNvbS5DTUxpdXNzc3MubmV0');//'';
 let DNS64Server = atob('WzI2MDI6ZmM1OTpiMDo2NDo6XQ==');//'';
 //let sub = '';
 let subConverter = atob('U3ViQXBpLkNtbGlVc3NzUy5OZXQ=');
